@@ -1,1 +1,1 @@
-# random_password_generator
+A random password generator is a tool that creates a password with a random combination of characters, making it difficult for others to guess or crack the password. A good password should be at least eight characters long and include a mix of uppercase and lowercase letters, numbers, and special characters.
